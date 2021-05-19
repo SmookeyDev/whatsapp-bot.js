@@ -1,0 +1,4 @@
+Flask
+waitress
+chatterbot
+chatterbot-corpus

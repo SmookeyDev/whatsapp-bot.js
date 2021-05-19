@@ -1,0 +1,1 @@
+nodejs main.js & python3 api.py
